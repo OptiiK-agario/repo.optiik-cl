@@ -1,0 +1,8 @@
+Origin: OptiiK repo
+Label: OptiiK repo 
+Suite: OptiiK repo
+Version: 1.0
+Codename: ios
+Architectures: iphoneos_arm
+Components: main
+Description: OptiiK repo Description
